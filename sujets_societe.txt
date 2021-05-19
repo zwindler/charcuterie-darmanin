@@ -1,6 +1,6 @@
-de la délinqance
+de la délinquance
 de la fin de vie
-de le mariage homosexuel
+du mariage homosexuel
 de la pizza hawaienne
 de la distanciation physique
 de la corruption
@@ -8,7 +8,7 @@ du cumul des mandats
 de l'islamophobie
 de Kubernetes
 de la startup nation
-des logiciels propriétaiaires
+des logiciels propriétaires
 de la place des femmes dans la société
 du vivre-ensemble
 des antivaxx
@@ -39,3 +39,4 @@ de l'IGPN
 des couvertures de Windev
 de Cyril Hanouna
 de l'état des prisons
+de la semaine de 4 jours payée 5
